@@ -1,0 +1,8 @@
+{
+  "name": "IRGoldCalc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "a10358fd"
+}
